@@ -1,6 +1,4 @@
-package com.hiilel.lesssons.lesson2;
-
-import java.math.BigInteger;
+package com.hillel.lesssons.lesson2;
 
 public class Main {
     public static void main(String[] args) {
